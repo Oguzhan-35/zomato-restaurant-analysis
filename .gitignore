@@ -1,0 +1,5 @@
+data/raw/
+data/zomato.db
+powerbi/*.csv
+*.pbix
+__pycache__/
